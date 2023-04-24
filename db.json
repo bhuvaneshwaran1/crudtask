@@ -1,0 +1,15 @@
+{
+    "employee": [
+        {
+            "id":1,
+            "name":"Bhuvan",
+            "dob":"15/06/1997",
+            "email":"bhuvanesh940@gmail.com",
+            "mobile":"9382004687",
+            "salary":"900000",
+            "gender":"male"
+
+        }
+        
+    ]
+}
